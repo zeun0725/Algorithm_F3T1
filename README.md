@@ -6,7 +6,7 @@
 
 
 
-# Algorithm_F3T1
+# Algorithm_F3T1 
 ## MBTI isfp(이수진) isfj(이정은) enfp(장혜원) entp(박지은)  
 ### 취뿌코녀  
 ***
