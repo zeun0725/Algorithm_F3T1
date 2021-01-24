@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeun0725%2FAlgorithm_F3T1&count_bg=%23D11B1B&title_bg=%23B31F1F&icon=skyliner.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/4ni_vely/) 
 
 
 
